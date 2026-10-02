@@ -1,0 +1,7 @@
+{
+  "name": "fin-sme-reporting-portal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Shared FIN Agency SME climate reporting register hosted on Vercel with Supabase persistence."
+}
